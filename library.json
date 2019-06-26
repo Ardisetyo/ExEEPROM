@@ -1,0 +1,19 @@
+{
+  "name": "ExEEPROM",
+  "keywords": "eeprom, external, externaleeprom, at24cxx, at24c",
+  "description": "Libary For External EEPROM",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Ardisetyo/ExEEPROM.git"
+  },
+  "version": "1.0.0",
+  "authors": {
+    "name": "Ardi Setyo"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}
