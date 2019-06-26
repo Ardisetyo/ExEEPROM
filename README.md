@@ -1,0 +1,3 @@
+# ExEEPROM
+
+External EEPROM ( AT24CXX )
